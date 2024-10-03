@@ -68,7 +68,7 @@ function startTimer() {
   btnStart.disabled = true;
   input.disabled = true;
 
-  // animatedDiv - данна змінна потрібна для стилізації
+  // animatedDiv - данна змінна потрібна для
   const animatedDiv = document.querySelector('#animatedDiv');
   animatedDiv.classList.add('animated');
 
